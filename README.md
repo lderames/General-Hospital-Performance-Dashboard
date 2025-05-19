@@ -64,6 +64,7 @@
 
 4. **Patient Survival and Mortality by Ethnicity ( Clustered Bar Chart)**
    - This visualization shows mortality rates by ethnicity, highlighting the most vulnerable patient groups for targeted healthcare focus.
+     
 ---
 
 ### **Hospital Procedure Report Dashboard**  
@@ -76,8 +77,11 @@
    - Visualizes the annual average turnaround time, providing insights to refine hospital workflows and enhance patient care efficiency.
  
 
-3. **Patient Expenditures Across Encounter Classes (Column Chart)**  
- 
+3.  **Highest/Lowest Patient Expenditure for Procedures (Bar Chart)**
+   - Highlights patients with the highest or the lowest total expenditures. Useful for financial planning and patient-specific cost analysis.
+  
+4.  **Highest/Lowest Total Base Cost by Procedure (Bar Chart)**
+   - Identifies procedures with the highest or lowest total base cost. Helps in cost-saving strategies by pinpointing inexpensive procedures.
 
 ---
 
