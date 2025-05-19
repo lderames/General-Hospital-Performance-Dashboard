@@ -87,25 +87,24 @@
 3. **Encounter Class Distribution Trends (Stacked Bar Chart)**  
    - Analyzes claims distribution across inpatient, outpatient, and emergency encounters, offering insights into healthcare utilization and service demand.  
 
----
-
 
 
  - ## Business Impact and Insights
 # Screenshots 
-  ### Dashboard Preview
 
 **Hospital Patient Report Dashboard**  
 
 ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Patient.png)
 
+---
 
 **Hospital Procedure Report Dashboard** 
 
   ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
 
+---
 
  **Hospital Claims Report Dashboard**
 
-  ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
+  ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Claims.png)
 
