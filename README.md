@@ -56,7 +56,7 @@
 2. **Survival Rate Analysis (Line Chart)**  
    - Illustrates survival rate trends over time, segmented by demographic factors, supporting evaluations of healthcare effectiveness across different patient groups.  
 
-3. **Patient Distribution by Race & Age (Stacked Bar Chart)**  
+3. **Patient Distribution by Race & Age (Heat Map)**  
    - Offers a clear visualization of racial and age group compositions within the hospital’s patient base, assisting in identifying population-specific health trends.  
 
 ---
