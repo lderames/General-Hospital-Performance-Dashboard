@@ -11,7 +11,7 @@
 - 📋 Data Modeling - Relationship established among tables to enable filtering and aggregation.
 
 # Features / Highlights
- - ## Business Problem
+ - ## Business Problems
 
 ### **Hospital Patient Report Dashboard**  
 - **Tracking Patient Survival Rates** – Monitor changes in survival rates over time to assess improvements in treatments.  
