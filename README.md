@@ -73,7 +73,8 @@
    - Provides a comparison of medical procedures performed by encounter type (e.g., Inpatient, Wellness, Emergency, Urgent), enabling analysis of resources allocation and priority.  
 
 2. **Turnaround Time Trends (Line Chart)**  
-   - Displays the average time required for various medical procedures, assisting in optimizing hospital workflow efficiency and patient care processes.  
+   - Visualizes the annual average turnaround time, providing insights to refine hospital workflows and enhance patient care efficiency.
+ 
 
 3. **Patient Expenditures Across Encounter Classes (Column Chart)**  
  
