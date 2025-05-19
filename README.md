@@ -29,7 +29,7 @@
 - **Tracking Patients with and without Insurance** – Analyze the number of claims approved through insurance processing versus those paid out-of-pocket.
 - **Assessing Insurance Provider Impact on Claim Amounts** – Identify which insurance types contribute the most to hospital revenue.  
 - **Detecting Number of Patients per Insurance Provider** – Track the patient count across different insurance providers to identify the most frequently used insurer.
- - **Analyzing Common Reasons for Claims** – Determine the most frequent medical conditions linked to claims to anticipate demand for treatments.
+- **Analyzing Common Reasons for Claims** – Determine the most frequent medical conditions linked to claims to anticipate demand for treatments.
 
 
  - ## Goal of the dashboard
@@ -76,12 +76,11 @@
 2. **Turnaround Time Trends (Line Chart)**  
    - Visualizes the annual average turnaround time, providing insights to refine hospital workflows and enhance patient care efficiency.
  
-
 3.  **Highest/Lowest Patient Expenditure for Procedures (Bar Chart)**
-   - Highlights patients with the highest or the lowest total expenditures. Useful for financial planning and patient-specific cost analysis.
+    - Highlights patients with the highest or the lowest total expenditures. Useful for financial planning and patient-specific cost analysis.
   
 4.  **Highest/Lowest Total Base Cost by Procedure (Bar Chart)**
-   - Identifies procedures with the highest or lowest total base cost. Helps in cost-saving strategies by pinpointing inexpensive procedures.
+    - Identifies procedures with the highest or lowest total base cost. Helps in cost-saving strategies by pinpointing inexpensive and expensive procedures.
 
 ---
 
