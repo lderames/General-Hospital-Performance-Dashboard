@@ -50,11 +50,11 @@
 
 ### **Hospital Patient Report Dashboard**   
 
-1. **Patient Demographics Breakdown (Bar Charts)**  
+1. **Patient Demographics Breakdown (Bar Graph)**  
    - Presents a detailed distribution of patients by age group and race, allowing for demographic trend analysis and targeted healthcare strategies.  
 
 
-2. **Survival and Mortality Rate Analysis (Pie Charts)**  
+2. **Survival and Mortality Rate Analysis (Donut Chart)**  
    - This visualization provides a clear, immediate comparison of survivor and fatality proportions, helping to assess and enhance care effectiveness.
  
 
@@ -70,31 +70,36 @@
 ### **Hospital Procedure Report Dashboard**  
   
 
-1. **Procedures Done by Encounter Type (Bar Chart)**  
+1. **Procedures Done by Encounter Type (Horizontal Bar Graph)**  
    - Provides a comparison of medical procedures performed by encounter type (e.g., Inpatient, Wellness, Emergency, Urgent), enabling analysis of resources allocation and priority.  
 
-2. **Turnaround Time Trends (Line Chart)**  
+2. **Turnaround Time Trends (Line Graph)**  
    - Visualizes the annual average turnaround time, providing insights to refine hospital workflows and enhance patient care efficiency.
  
-3.  **Highest/Lowest Patient Expenditure for Procedures (Bar Chart)**
+3.  **Highest/Lowest Patient Expenditure for Procedures (Vertical Bar Graph)**
     - Highlights patients with the highest or the lowest total expenditures. Useful for financial planning and patient-specific cost analysis.
   
-4.  **Highest/Lowest Total Base Cost by Procedure (Bar Chart)**
+4.  **Highest/Lowest Total Base Cost by Procedure (Vertical Bar Graph)**
     - Identifies procedures with the highest or lowest total base cost. Helps in cost-saving strategies by pinpointing inexpensive and expensive procedures.
 
 ---
 
 ### **Hospital Claims Report Dashboard**  
  
+1. **Claims by Encounter Class (Vertical Bar graph)** 
+    -  Display the total claim amounts across different medical encounter types. Helps identify which encounter classes contribute most to overall healthcare costs. 
 
-1. **Total Claim Amounts & Insurance Distribution (Pie Chart)**  
-   - Breaks down total claim amounts by insurance provider, highlighting financial distribution and insurer impact on hospital revenue.  
+2. **Distribution of Insurance by Claim Amount (Vertical Bar graph)**  
+    - Shows the total claim amount covered by various insurance providers. Identifies which insurance providers bear the highest claim burdens, 
+      helping insurers assess risk exposure and adjust premium models accordingly. This view can also support negotiations with healthcare providers and policy optimization.
 
-2. **Common Reasons for Claims (Bar Chart)**  
-   - Identifies the most frequently reported medical conditions leading to claims, providing data-driven insights into prevalent health concerns among patients.  
+3. **Top Reasons by Claim Amount (Horizontal Bar Graph)**
+    - Illustrates medical conditions associated with the highest claims. Facilitates trend analysis in costly medical conditions, enabling targeted interventions, preventive care initiatives, 
+      and optimized treatment strategies. 
 
-3. **Encounter Class Distribution Trends (Stacked Bar Chart)**  
-   - Analyzes claims distribution across inpatient, outpatient, and emergency encounters, offering insights into healthcare utilization and service demand.  
+4. **Number of Patients by Insurance Name (Horizontal Bar Graph)** 
+     - Representing patient distribution among insurance providers. Provides a snapshot of market share for insurance providers, identifying dominant insurers and potential gaps in coverage. 
+       It also aids the hospital in understanding patient demographics and optimizing partnerships with insurance firms.
 
 
 
