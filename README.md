@@ -95,6 +95,43 @@
 
 
  - ## Business Impact and Insights
+
+
+### **Hospital Patient Report Dashboard**  
+**Business Impact:**  
+- Helps hospitals **identify high-risk patient demographics** for targeted healthcare interventions.  
+- Supports **resource allocation decisions** by highlighting patient distributions across race and age groups.  
+- Enables **trend analysis in survival rates**, assisting in refining treatment protocols.  
+
+**Key Insights:**  
+- Certain age groups or racial demographics may have **higher mortality rates**, requiring specialized care strategies.  
+- Understanding patient demographics allows hospitals to **improve staffing and operational planning**.  
+
+
+
+### **Hospital Procedure Report Dashboard**  
+**Business Impact:**  
+- Provides **cost optimization opportunities** by identifying expensive procedures and turnaround inefficiencies.  
+- Helps hospitals **track demand for specific medical procedures** to adjust resource allocation.  
+- Supports **financial forecasting** by analyzing expenditures across different encounter types.  
+
+**Key Insights:**  
+- Longer turnaround times may signal **workflow inefficiencies**, affecting patient experience and hospital throughput.  
+- High-cost procedures need careful management to **ensure profitability while maintaining quality care**.  
+
+
+
+### **Hospital Claims Report Dashboard**  
+**Business Impact:**  
+- Enables hospitals to **optimize revenue cycle management** by tracking claims data trends.  
+- Improves **insurance negotiation strategies** based on claim approval and denial rates.  
+- Helps predict **seasonal fluctuations in claims** to prepare for demand spikes.  
+
+**Key Insights:**  
+- Certain medical conditions drive **a significant portion of claims**, impacting hospital revenue.  
+- Understanding insurance provider distributions allows hospitals to **better manage financial risks and billing strategies**.  
+
+
 # Screenshots 
 
 **Hospital Patient Report Dashboard**  
