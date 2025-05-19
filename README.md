@@ -53,11 +53,14 @@
 1. **Patient Demographics Breakdown (Bar Chart)**  
    - Presents a detailed distribution of patients by age, gender, and race, allowing for demographic trend analysis and targeted healthcare strategies.  
 
-2. **Survival Rate Analysis (Line Chart)**  
-   - Illustrates survival rate trends over time, segmented by demographic factors, supporting evaluations of healthcare effectiveness across different patient groups.  
+2. **Survival and Mortality Rate Analysis (Pie Chart)**  
+   - This visualization highlights the proportion of survivors versus fatalities, offering a quick, clear comparison. It helps identify risk factors, and insights to guide healthcare decisions.  
 
-3. **Patient Distribution by Race & Age (Heat Map)**  
-   - Offers a clear visualization of racial and age group compositions within the hospital’s patient base, assisting in identifying population-specific health trends.  
+3. **Patient Survival Distribution by Race & Age (Heat Map)** 
+   - Provides a comprehensive visualization of mortality rates across different racial and age demographics within the hospital’s patient base. This analysis helps identify the highest-risk groups, enabling targeted care 
+     strategies to improve patient outcomes.  
+
+This version streamlines the wording while maintaining the core intent. Let me know if you’d like further refinements! 
 
 ---
 
