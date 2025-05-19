@@ -93,3 +93,8 @@
 
  - ## Business Impact and Insights
 # Screenshots 
+  **Dashboard Preview**
+
+**Hospital Patient Report Dashboard** 
+ - ![Alt text)]
+
