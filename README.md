@@ -62,8 +62,6 @@
    - Provides a comprehensive visualization of mortality rates across different racial and age demographics within the hospital’s patient base. This analysis helps identify the highest-risk groups, enabling targeted care 
      strategies to improve patient outcomes.  
 
-This version streamlines the wording while maintaining the core intent. Let me know if you’d like further refinements! 
-
 ---
 
 ### **Hospital Procedure Report Dashboard**  
