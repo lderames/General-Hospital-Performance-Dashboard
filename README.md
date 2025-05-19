@@ -70,7 +70,7 @@
   
 
 1. **Procedures Done by Encounter Type (Bar Chart)**  
-   - Provides a comparison of medical procedures performed by encounter type (Inpatient, Wellness, Emergency, Urgent, and more), enabling analysis of resources allocation and priority.  
+   - Provides a comparison of medical procedures performed by encounter type (e.g., Inpatient, Wellness, Emergency, Urgent), enabling analysis of resources allocation and priority.  
 
 2. **Turnaround Time Trends (Line Chart)**  
    - Displays the average time required for various medical procedures, assisting in optimizing hospital workflow efficiency and patient care processes.  
