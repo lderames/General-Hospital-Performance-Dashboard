@@ -26,7 +26,7 @@
 - **Evaluating Impact of Encounter Class on Expenditures** – Compare costs between emergency vs. outpatient encounters to refine financial strategies.
 
 ### **Hospital Claims Report Dashboard**  
-- **Tracking Claim Approval Rates** – Analyze trends in claim approvals versus denials to optimize insurance processing.  
+- **Tracking on Patients with Insurance and with None** – Analyze the number of claims approve by insurance processing and paying it out of pocket.  
 - **Assessing Insurance Provider Impact on Claim Amounts** – Identify which insurance types contribute the most to hospital revenue.  
 - **Detecting Seasonal Claim Trends** – Monitor fluctuations in claims based on external factors (e.g., flu season, pandemic impacts).  
 - **Analyzing Common Reasons for Claims** – Determine the most frequent medical conditions linked to claims to anticipate demand for treatments.
