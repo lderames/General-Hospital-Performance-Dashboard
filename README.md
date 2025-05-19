@@ -62,6 +62,8 @@
    - Provides a comprehensive visualization of mortality rates across different racial and age demographics within the hospital’s patient base. This analysis helps identify the highest-risk groups, enabling targeted care 
      strategies to improve patient outcomes.  
 
+4. **Patient Survival and Mortality by Ethnicity ( Clustered Bar Chart)**|
+   - This visualization shows mortality rates by ethnicity, highlighting the most vulnerable patient groups for targeted healthcare focus.
 ---
 
 ### **Hospital Procedure Report Dashboard**  
