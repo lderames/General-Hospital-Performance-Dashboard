@@ -50,11 +50,13 @@
 
 ### **Hospital Patient Report Dashboard**   
 
-1. **Patient Demographics Breakdown (Bar Chart)**  
-   - Presents a detailed distribution of patients by age, gender, and race, allowing for demographic trend analysis and targeted healthcare strategies.  
+1. **Patient Demographics Breakdown (Bar Charts)**  
+   - Presents a detailed distribution of patients by age group and race, allowing for demographic trend analysis and targeted healthcare strategies.  
 
-2. **Survival and Mortality Rate Analysis (Pie Chart)**  
-   - This visualization highlights the proportion of survivors versus fatalities, offering a quick, clear comparison. It helps identify risk factors, and insights to guide healthcare decisions.  
+
+2. **Survival and Mortality Rate Analysis (Pie Charts)**  
+   - This visualization provides a clear, immediate comparison of survivor and fatality proportions, helping to assess and enhance care effectiveness.
+ 
 
 3. **Patient Survival Distribution by Race & Age (Heat Map)** 
    - Provides a comprehensive visualization of mortality rates across different racial and age demographics within the hospital’s patient base. This analysis helps identify the highest-risk groups, enabling targeted care 
