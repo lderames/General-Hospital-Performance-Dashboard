@@ -44,6 +44,52 @@
 **Goal:** To track hospital claims data, insurance distributions, and common claim reasons, assisting in optimizing revenue cycle management and improving claim approval processes.
 
 
- - ## Walk through of key visuals
+ - ## Walk Through of Key Visuals
+
+
+
+### **Hospital Patient Report Dashboard**   
+
+1. **Patient Demographics Breakdown (Bar Chart)**  
+   - Presents a detailed distribution of patients by age, gender, and race, allowing for demographic trend analysis and targeted healthcare strategies.  
+
+2. **Survival Rate Analysis (Line Chart)**  
+   - Illustrates survival rate trends over time, segmented by demographic factors, supporting evaluations of healthcare effectiveness across different patient groups.  
+
+3. **Patient Distribution by Race & Age (Stacked Bar Chart)**  
+   - Offers a clear visualization of racial and age group compositions within the hospital’s patient base, assisting in identifying population-specific health trends.  
+
+---
+
+### **Hospital Procedure Report Dashboard**  
+  
+
+1. **Procedure Volume & Costs Over Time (Line Chart)**  
+   - Provides a year-over-year comparison of medical procedures performed alongside total associated costs, enabling analysis of resource allocation and financial sustainability.  
+
+2. **Turnaround Time Trends (Bar Chart)**  
+   - Displays the average time required for various medical procedures, assisting in optimizing hospital workflow efficiency and patient care processes.  
+
+3. **Patient Expenditures Across Encounter Classes (Stacked Column Chart)**  
+ 
+
+---
+
+### **Hospital Claims Report Dashboard**  
+ 
+
+1. **Total Claim Amounts & Insurance Distribution (Pie Chart)**  
+   - Breaks down total claim amounts by insurance provider, highlighting financial distribution and insurer impact on hospital revenue.  
+
+2. **Common Reasons for Claims (Bar Chart)**  
+   - Identifies the most frequently reported medical conditions leading to claims, providing data-driven insights into prevalent health concerns among patients.  
+
+3. **Encounter Class Distribution Trends (Stacked Bar Chart)**  
+   - Analyzes claims distribution across inpatient, outpatient, and emergency encounters, offering insights into healthcare utilization and service demand.  
+
+---
+
+
+
  - ## Business Impact and Insights
 # Screenshots 
