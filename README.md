@@ -62,20 +62,20 @@
    - Provides a comprehensive visualization of mortality rates across different racial and age demographics within the hospital’s patient base. This analysis helps identify the highest-risk groups, enabling targeted care 
      strategies to improve patient outcomes.  
 
-4. **Patient Survival and Mortality by Ethnicity ( Clustered Bar Chart)**|
+4. **Patient Survival and Mortality by Ethnicity ( Clustered Bar Chart)**
    - This visualization shows mortality rates by ethnicity, highlighting the most vulnerable patient groups for targeted healthcare focus.
 ---
 
 ### **Hospital Procedure Report Dashboard**  
   
 
-1. **Procedure Volume & Costs Over Time (Line Chart)**  
-   - Provides a year-over-year comparison of medical procedures performed alongside total associated costs, enabling analysis of resource allocation and financial sustainability.  
+1. **Procedures Done by Encounter Type (Bar Chart)**  
+   - Provides a comparison of medical procedures performed by encounter type (Inpatient, Wellness, Emergency, Urgent, and more), enabling analysis of resources allocation and priority.  
 
-2. **Turnaround Time Trends (Bar Chart)**  
+2. **Turnaround Time Trends (Line Chart)**  
    - Displays the average time required for various medical procedures, assisting in optimizing hospital workflow efficiency and patient care processes.  
 
-3. **Patient Expenditures Across Encounter Classes (Stacked Column Chart)**  
+3. **Patient Expenditures Across Encounter Classes (Column Chart)**  
  
 
 ---
