@@ -93,11 +93,12 @@
 
  - ## Business Impact and Insights
 # Screenshots 
-  **Dashboard Preview**
+  ### Dashboard Preview
 
 **Hospital Patient Report Dashboard** 
- - ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
+![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Patient.png)
+
 
 **Hospital Procedure Report Dashboard** 
- - ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
+  ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
 
