@@ -96,5 +96,8 @@
   **Dashboard Preview**
 
 **Hospital Patient Report Dashboard** 
- - ![Alt text)]
+ - ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
+
+**Hospital Procedure Report Dashboard** 
+ - ![Alt text)](https://github.com/lderames/General-Hospital-Performance-Dashboard/blob/main/Dashboard%20Screenshots/Procedures.png)
 
