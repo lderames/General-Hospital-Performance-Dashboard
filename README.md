@@ -26,10 +26,10 @@
 - **Evaluating Impact of Encounter Class on Expenditures** – Compare costs between emergency vs. outpatient encounters to refine financial strategies.
 
 ### **Hospital Claims Report Dashboard**  
-- **Tracking on Patients with Insurance and with None** – Analyze the number of claims approve by insurance processing and paying it out of pocket.  
+- **Tracking Patients with and without Insurance** – Analyze the number of claims approved through insurance processing versus those paid out-of-pocket.
 - **Assessing Insurance Provider Impact on Claim Amounts** – Identify which insurance types contribute the most to hospital revenue.  
-- **Detecting Seasonal Claim Trends** – Monitor fluctuations in claims based on external factors (e.g., flu season, pandemic impacts).  
-- **Analyzing Common Reasons for Claims** – Determine the most frequent medical conditions linked to claims to anticipate demand for treatments.
+- **Detecting Number of Patients per Insurance Provider** – Track the patient count across different insurance providers to identify the most frequently used insurer.
+ - **Analyzing Common Reasons for Claims** – Determine the most frequent medical conditions linked to claims to anticipate demand for treatments.
 
 
  - ## Goal of the dashboard
