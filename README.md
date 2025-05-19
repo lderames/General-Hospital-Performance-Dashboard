@@ -3,7 +3,7 @@
 
 # Background
 
-**DataSense PH** has launched an exciting **Data Challenge** for aspiring data professionals and enthusiasts, providing a platform to showcase their analytical and visualization skills. Participants are given structured datasets and tasked with developing dashboards that uncover key trends and actionable insights.
+🦾**DataSense PH** has launched an exciting **Data Challenge** for aspiring data professionals and enthusiasts, providing a platform to showcase their analytical and visualization skills. Participants are given structured datasets and tasked with developing dashboards that uncover key trends and actionable insights.
 
 
 
