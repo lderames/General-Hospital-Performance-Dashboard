@@ -1,4 +1,6 @@
 # Introduction
+This suite dashboards provides a comprehensive view of healthcare operations, focusing on patient demographics, medical outcomes, financial claims, and overall hospital performance. By integrating key metrics across multiple dimensions, these dashboards empower administrators, healthcare professionals, and financial teams to make data-driven decisions that improve patient care, optimize resources, and ensure financial sustainability.
+
 # Background
 # Tools Used
 # Features / Highlights
